@@ -1,16 +1,12 @@
-### Hi there 👋
+        °MEU PERFIL :)
+°Meu nome é Maria
 
-<!--
-**m4r-ir/m4r-ir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+°Estou tendo que estudar na Alura;
+°Aparentemente estou me desenvolvendo na linguagem JavaScript;
+°Eu "Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos";
+      
+    °VOCÊ PODE ENTRAR EM CONTATO COMIGO NO MEU E-MAIL
+             (de preferencia não entrar...)
+-moresco.rodrigues@escola.pr.gov.br
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@m4r-ir
