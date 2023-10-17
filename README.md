@@ -12,4 +12,5 @@
 - moresco.rodrigues@escola.pr.gov.br
 
 @m4r-ir
-(https://media.tenor.com/nButV4hZo9UAAAAd/violet-evergarden-violet.gif)
+
+![](https://media.tenor.com/nButV4hZo9UAAAAd/violet-evergarden-violet.gif)
